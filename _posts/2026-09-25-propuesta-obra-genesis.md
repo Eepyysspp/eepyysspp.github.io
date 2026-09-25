@@ -55,12 +55,12 @@ En el contexto del álbum, *I saw an angel in the mirror*, en que se encuentra G
 | **0:03** | Intro | Ritmo batería |
 | **0:18** | Intro | Guitarra con teclados bajos |
 | **0:32** | Intro | Batería + Teclados medios y bajos (distorsionados de aquí en adelante) + Ambiente |
-| **0:39** | Intro | Batería + Teclados medios y bajos + Ambiente + Guitarra |
-| **1:02** | Desarrollo | Batería (sin platillos) + Guitarra + Ambiente teclados bajos |
-| **1:09** | Desarrollo | Batería con platillos + Guitarra + Ambiente + teclados bajos |
+| **0:39** | Intro | Batería + Teclados medios y bajos + Ambiente/teclados bajos + Guitarra |
+| **1:02** | Desarrollo | Batería (sin platillos) + Guitarra + Ambiente/teclados bajos |
+| **1:09** | Desarrollo | Batería con platillos + Guitarra + Ambiente/teclados bajos |
 | **1:17** | Desarrollo | Solo guitarra + batería sin platos + teclados bajos (sin distorsión) (al final teclado agudo subida 1:28) |
-| **1:32** | Desarrollo | Batería con platillos + Guitarra + Teclados medios y bajos (distorsionados) + Ambiente (teclados bajos) |
-| **1:46** | Desarrollo | Batería con platillos + Guitarra + Teclados altos (en el 1:54 un poco de desfase), medios y bajos (distorsionados) + Ambiente (teclados bajos) |
+| **1:32** | Desarrollo | Batería con platillos + Guitarra + Teclados medios y bajos (distorsionados) + Ambiente/teclados bajos |
+| **1:46** | Desarrollo | Batería con platillos + Guitarra + Teclados altos (en el 1:54 un poco de desfase), medios y bajos (distorsionados) + Ambiente/teclados bajos |
 | **2:01** | Outro | Guitarra + Teclados medios + teclados bajos + Ambiente |
 | **2:15** | Outro | Teclados bajos 2nda línea melódica + teclados bajos 1ra línea melódica (se va desvaneciendo poco a poco) + Ambiente marcado |
 | **2:30 – 2:55** | Outro | Teclado bajos 2nda línea melódica (con un poco de distorsión), más limpio y resuelve |
