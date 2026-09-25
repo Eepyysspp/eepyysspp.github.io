@@ -122,11 +122,13 @@ Claude fue utilizado para los siguientes propósitos:
 
   > "Genera un tutorial de como hacer una página en este formato, generando archivos plantilla y vinculandolo al repositorio de la orquesta. Para que otros miembros puedan hacer lo mismo"
 
+- **Ayudar con la creación de algunos elementos de este post que no sabia crear, como la tabla, el adjuntar paginas web, cargar videos y audios en el post anterior de los samples. Los elementos de esta tarea fueron creados completamente por mi en un inicio, todo en un documento de word que luego subi en este formato**
+
 - **Creación de la plataforma para controlar la obra.**
 
   > "Ayudame a crear un repositorio aparte el cual sea una pagina que funcione como hub de una obra de orquesta de laptops, en el cual se puedan seleccionar distintos instrumentos los cuales controlar. Con plantilla para colocar instrucciones basicas a lo largo de un tiempo."
 
-Una vez creada la pagina y revisada, le adjunte las indicaciones que se encuentran más arriba en este post, en forma de un documento de word 
+  Una vez creada la pagina y revisada, le adjunte las indicaciones que se encuentran más arriba en este post, en forma de un documento de word 
 
   > "Modifica la obra Cover_Genesis, con los detalles de la obra que se encuentra en el documento"
 
