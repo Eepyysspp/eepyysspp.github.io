@@ -108,3 +108,14 @@ Claude fue utilizado para los siguientes propósitos:
 - **Creación de un tutorial explicando todo el proceso de crear un portafolio y luego conectar al repo principal.** Para ayudar a compañeros que no supieran cómo hacerlo.
 
   > "Genera un tutorial de como hacer una página en este formato, generando archivos plantilla y vinculandolo al repositorio de la orquesta. Para que otros miembros puedan hacer lo mismo"
+
+## La obra en funcionamiento
+
+Registro de la página de control de la obra: el perfil de teclado bajo/medio y el del ambiente (teclados bajos permanentes), con el reloj, las entradas y silencios, los acordes y los colores.
+
+<video controls preload="metadata" playsinline poster="/assets/video/cover-genesis-demo.jpg" style="width:100%;border-radius:8px">
+  <source src="/assets/video/cover-genesis-demo.mp4" type="video/mp4">
+  Tu navegador no puede reproducir este video. <a href="/assets/video/cover-genesis-demo.mp4">Descargarlo</a>.
+</video>
+
+**[Abrir la página de Cover_Genesis →](https://eepyysspp.github.io/Cover_Genesis/)**
