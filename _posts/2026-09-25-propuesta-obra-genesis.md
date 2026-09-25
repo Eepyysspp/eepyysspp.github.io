@@ -97,6 +97,19 @@ Todos pueden usar teclado para hacerse (excepto guitarra), aunque lo ideal serí
 
 Detalles de la interpretación, si se quiere añadir más elementos visuales con colores, pero no hay más intérpretes que se puedan encargar de eso solamente, se puede conectar esto a la guitarra y batería. Si hay miembros extra se pueden encargar de las melodías de teclado que tienen que ir cambiando o del ambiente visual o sonoro.
 
+
+## La obra en funcionamiento
+
+Grabación de un par de funciones de la pagina sin refinar. Los pianos bajos suenan cercano a la canción original y el controlador de "ambiente" me parece muy interesante, es algo que podria ser extraido de esta obra y usado en otras cosas.
+Los dos sonidos utilizados de base son creados en base a ondas sierra y una sinusoidal, los cuales pasan por filtros pasa bajos (para eliminar agudos) y se simula saturación analogica (vuelve mas cuadrados los peaks de las ondas, se nota menos caida, etc.) al pasarlo por un filtro tanh (de tangente hiperbólica). El resto de sonidos serían trabajados de igual manera, aunque a mi me parece más interesante buscar entre librerias de instrumentos midi ya pre hechos, en un daw modificarlos hasta obtener el sonido deseado y extraer ese sonido para insertarlo en el programa.
+
+<video controls preload="metadata" playsinline poster="/assets/video/cover-genesis-demo.jpg" style="width:100%;border-radius:8px">
+  <source src="/assets/video/cover-genesis-demo.mp4" type="video/mp4">
+  Tu navegador no puede reproducir este video. <a href="/assets/video/cover-genesis-demo.mp4">Descargarlo</a>.
+</video>
+
+**[Abrir la página de Cover_Genesis →](https://eepyysspp.github.io/Cover_Genesis/)**
+
 ## Declaración de uso de IA
 
 Claude fue utilizado para los siguientes propósitos:
@@ -109,13 +122,14 @@ Claude fue utilizado para los siguientes propósitos:
 
   > "Genera un tutorial de como hacer una página en este formato, generando archivos plantilla y vinculandolo al repositorio de la orquesta. Para que otros miembros puedan hacer lo mismo"
 
-## La obra en funcionamiento
+- **Creación de la plataforma para controlar la obra.**
 
-Registro de la página de control de la obra: el perfil de teclado bajo/medio y el del ambiente (teclados bajos permanentes), con el reloj, las entradas y silencios, los acordes y los colores.
+  > "Ayudame a crear un repositorio aparte el cual sea una pagina que funcione como hub de una obra de orquesta de laptops, en el cual se puedan seleccionar distintos instrumentos los cuales controlar. Con plantilla para colocar instrucciones basicas a lo largo de un tiempo."
 
-<video controls preload="metadata" playsinline poster="/assets/video/cover-genesis-demo.jpg" style="width:100%;border-radius:8px">
-  <source src="/assets/video/cover-genesis-demo.mp4" type="video/mp4">
-  Tu navegador no puede reproducir este video. <a href="/assets/video/cover-genesis-demo.mp4">Descargarlo</a>.
-</video>
+Una vez creada la pagina y revisada, le adjunte las indicaciones que se encuentran más arriba en este post, en forma de un documento de word 
 
-**[Abrir la página de Cover_Genesis →](https://eepyysspp.github.io/Cover_Genesis/)**
+  > "Modifica la obra Cover_Genesis, con los detalles de la obra que se encuentra en el documento"
+
+- **Explicación del funcionamiento de los sonidos.**
+
+  > "Quiero que me expliques como funciona la sintesis de los sonidos del teclado bajo y la de Ambiente · Teclados bajos permanentes. O el como se controla, que parametros cambian. De forma resumida, pero sin omitir detalles claves"
