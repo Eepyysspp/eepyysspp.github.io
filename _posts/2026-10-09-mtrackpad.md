@@ -1,6 +1,6 @@
 ---
 title: "MTrackpad: un instrumento para tocar con el trackpad"
-date: 2026-10-09 17:00:00 -0300
+date: 2026-10-09 16:30:00 -0300
 categories: [Instrumentos]
 tags: [mtrackpad, instrumento, web audio, sintesis, granular, luces]
 ---
