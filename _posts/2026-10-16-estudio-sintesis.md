@@ -79,6 +79,6 @@ Claude fue utilizado para los siguientes propósitos:
 
   > "Esta perfecto, pero date tu tiempo en hacer que la interfaz sea mas amigable (tanto funcional como visualmente), tambien añadiendo una breve descripcion de que puedo esperar de cada sonido, a su vez me gustaria poder tener la capacidad de añadir o eliminar mas osciladores en el area de sintesis"
 
-- **Escribir este post y dejar el programa descargable desde mi carpeta del portafolio.**
+- **Publicar este post y dejar el programa descargable desde mi carpeta del portafolio.**
 
-  > "Crea un post en mi pagina explicando el programa estudio sintesis y vinculalo con una carpeta en mi portafolio de la orquesta de laptops, para poder descargarlo directamente"
+  > "Crea un post en mi pagina con la explicación que escribi en este documento de word, sobre el programa estudio sintesis y vinculalo con una carpeta en mi portafolio de la orquesta de laptops, para poder descargarlo directamente"
