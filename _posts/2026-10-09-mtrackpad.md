@@ -77,6 +77,6 @@ Claude fue utilizado para los siguientes propósitos:
 
   > "Elimina todo lo que lo relacione a la obra Genesis, que sea su propio instrumento llamado MTrackpad (Musical trackpad). Que permita modificar el audio, cargar samples controlar la luz, efectos. Etc"
 
-- **Escribir este post.**
+- **Ayudar con la escritura y publicación de este post.**
 
-  > "Quiero que me generes un post de este instrumento en mi pagina"
+  > "Quiero que me ayudes a explicar el funcionamiento de este instrumento en un post en mi pagina"
