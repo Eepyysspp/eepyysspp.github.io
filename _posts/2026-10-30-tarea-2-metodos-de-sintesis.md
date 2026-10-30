@@ -236,3 +236,5 @@ Herramienta: Claude (Anthropic), en claude.ai, usado entre el 29 y el 30 de octu
 7. «Agrega en la seccion referencias los videos que consideres pertinentes y luego cita como en vancouver con corchetes cuando sea necesario en el texto y completa la seccion declaración de uso de ia».
 
    > Prompt utilizado para finalizar el trabajo, posterior a esto escribí estas explicaciones de cada prompt, corregí el formato resumido del segmento anterior y finalmente verifiqué los videos y referencias que agregó en cada segmento (eliminando y moviendo un par).
+
+8. (Adjuntando el DOCX de esta tarea) «Ya que estamos trabajando de forma local (sin acceso a internet) en la orquesta de laptops, necesito que 1 me generes un post en mi pagina a partir de este documento de word y que lo hagas visualizable al publicar mi pagina en (D:\\universidad\\orquesta de laptops\\OrquestaLaptopsUC.github.io\\2026\\portafolios\\Felipe\_Osorio), agregando todos los sonidos ahi».
